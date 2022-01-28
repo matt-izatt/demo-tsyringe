@@ -8,4 +8,4 @@ Run `npm install`
 Run `npx ts-node index.ts`
 
 # Run the tests
-Run `npx ts-node index.ts`
+Run `npx jest`
